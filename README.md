@@ -11,7 +11,7 @@ Install
 Run
 ---
 
-`docker run -it --name jitsi-meet -p 443:443 jitsi-meet`
+`docker run -d --name jitsi-meet -it -p 443:443 jitsi-meet`
 
 License
 ---
